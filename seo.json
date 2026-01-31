@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "name": "Fifie Glam Beauty - Elevate Your Natural Beauty",
+  "headline": "Fifie Glam Beauty - Professional Beauty Services",
+  "description": "Discover premium beauty services at Fifie Glam Beauty. From bridal makeup to luxury facials, we elevate your natural beauty.",
+  "url": "https://fifieglambeauty.vercel.app",
+  "logo": "/logo.png",
+  "author": {
+    "@type": "Person",
+    "name": "Sam Software",
+    "url": "https://simonsoftware.xyz",
+    "image": "https://api.omendapipays.shop/assets/image/ceo1.jpg",
+    "sameAs": [
+      "https://www.facebook.com/samochuu",
+      "https://www.tiktok.com/@samochu"
+    ]
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+255 778 760 701",
+    "contactType": "Customer Service"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sam Software",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/favicon_32x32.png"
+    }
+  },
+  "sameAs": [
+  "https://www.instagram.com/fifie_glam_beauty",
+  "https://www.tiktok.com/@officialfifie"
+  ]
+}

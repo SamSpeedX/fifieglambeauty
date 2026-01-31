@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://fifieglambeauty.vercel.app/sitemap.xml
