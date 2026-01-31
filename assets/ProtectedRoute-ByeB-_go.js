@@ -1,0 +1,1 @@
+import{u as a,j as t,N as s}from"./index-KBqCgW_-.js";const n=({children:e})=>{const o=a();return localStorage.getItem("isAuth")==="true"?t.jsx(t.Fragment,{children:e}):t.jsx(s,{to:"/admin/login",state:{from:o},replace:!0})};export{n as default};
